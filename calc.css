@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    font-family: 'orbitron',sans-serif;
+}
+.calc{
+    width:380px;
+    border: 2px solid;
+    margin: auto;
+    background-color: #39383d;
+    border-radius: 10px;
+
+}
+.calc-display{
+    width: 90%;
+    height: 60px;
+    border: none;
+    background-color: #a2af77;
+    border-radius: 10px;
+}
+input[type=button]{
+    width: 75px;
+    height: 70px;
+    margin: 2px;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    background-color: #58595b;
+}
